@@ -4,6 +4,10 @@ This is a **complete beginner-friendly** web application built with **Java, Spri
 
 It teaches the **basics of CRUD (Create, Read, Update, Delete)** operations with clean code, minimal setup, and a simple UI.
 
+<p align="center">
+  <img src="images/home.jpeg" width="30%" alt="Home screen"/>
+  <img src="images/studentList.jpeg" width="30%" alt="Student List"/>
+</p>
 
 ## 🚀 Features
 
