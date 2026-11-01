@@ -17,6 +17,7 @@ public class StudentController {
 
     @GetMapping("/")
     public String home() {
+        ricardo
         return "index";
     }
 
